@@ -7,10 +7,10 @@ url: "https://ninja-xu.github.io"
 
 
 # Secondary Parameters
-baseurl: "/xu-pages"
+baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /xu-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  ninja-xu
